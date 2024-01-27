@@ -1,0 +1,3 @@
+/Users/owen1018/CLionProjects/DHCPserver/cmake-build-debug/CMakeFiles/DHCPserver.dir
+/Users/owen1018/CLionProjects/DHCPserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/owen1018/CLionProjects/DHCPserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
